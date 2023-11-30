@@ -1,4 +1,8 @@
-	Multiplicador puntos premium = x1.7
+---
+title: Sistema de Puntos
+draft: false
+---
+	 Multiplicador puntos premium = x1.7
 
 | Rol     | Acción           | Cantidad Puntos                                   |
 | ------- | ---------------- | ------------------------------------------------- |

@@ -1,9 +1,8 @@
 ---
 title: Planner Ideas
 draft: false
-tags: []
 ---
-# Planner Ideas - WolfGG
+# Planner Ideas
 En esta página se encuentran todas las ideas relacionadas con el proyecto. Todo lo que esté publicado aquí ha pasado por el siguiente proceso:
 1. Propuesta de la idea.
 2. Discusión de la idea.
