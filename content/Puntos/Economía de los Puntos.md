@@ -1,8 +1,8 @@
 ---
-title: Sistema de Puntos
-draft: false
+title: Economía de los Puntos
+draft:
 ---
-	 Multiplicador puntos premium = x1.7
+	Multiplicador puntos premium = x1.7
 
 | Rol     | Acción           | Cantidad Puntos                                   |
 | ------- | ---------------- | ------------------------------------------------- |
