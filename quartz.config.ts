@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "WolfGG Planer",
+    pageTitle: "WolfGG Planner",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
