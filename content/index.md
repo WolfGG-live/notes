@@ -8,5 +8,5 @@ Para que una idea pueda ser publicada aquí debe seguir las siguientes normas:
 1. Debe estar bien redactada
 2. Debe tener buena cohesión
 3. Debe contar con correcta ortografía
-4. Debe realizar uso de todos los recursos posibles de Obsidian para poder darle un mayor apego visual
+4. Debe realizar uso de todos los recursos posibles de Obsidian y Quartz para poder darle un mayor apego visual
 5. Se debe intentar relacionar todas las páginas posibles que se puedan con el articulo que se va a publicar, para conseguir un buen mapa mental de ideas.
