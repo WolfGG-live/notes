@@ -1,4 +1,3 @@
-
 ---
 title: Planner Ideas
 draft: false
