@@ -11,4 +11,4 @@
 | Usuario | Ver Directo (2h) | 100 puntos                                        |
 | Premium | Ver Directo (2h) | 170 puntos                                        |                                        |
 
-Por cada vista completa del directo se obtiene una cantidad de $\frac{Puntos}{2}=Recompensa$
+Por cada vista completa del directo se obtiene una cantidad de $\frac{Puntos}{2}*Multiplicador=Recompensa$
